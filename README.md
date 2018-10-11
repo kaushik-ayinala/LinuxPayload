@@ -3,6 +3,7 @@
 For details use the read metasploit_tutorial.docx
 
 Run the following in kali linux to generate and serve the payload in webserver.
+	
 	git clone https://github.com/kaushik-ayinala/LinuxPayload.git
 	cd LinuxPayload
 	sh payload.sh [IP]  
