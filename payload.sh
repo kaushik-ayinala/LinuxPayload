@@ -1,4 +1,3 @@
-set -x
 pwd=$(pwd)
 rm -rf /tmp/free*
 rm -rf /var/www/html/free*

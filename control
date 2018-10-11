@@ -2,7 +2,7 @@ Package: freesweep
 Version: 0.90-1
 Section: Games and Amusement
 Priority: optional
-Architecture: i386
+Architecture: any
 Maintainer: Ubuntu MOTU Developers (ubuntu-motu@lists.ubuntu.com)
 Description: a text-based minesweeper
  Freesweep is an implementation of the popular minesweeper game, where
