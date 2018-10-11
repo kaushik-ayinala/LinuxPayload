@@ -1,5 +1,5 @@
 Package: freesweep
-Version: 1.1-1
+Version: 0.90-1
 Section: Games and Amusement
 Priority: optional
 Architecture: i386
@@ -10,4 +10,3 @@ Description: a text-based minesweeper
  by the computer. Unlike most implementations of this game, Freesweep
  works in any visual text display - in Linux console, in an xterm, and in
  most text-based terminals currently in use.
- 

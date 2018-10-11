@@ -1,7 +1,9 @@
 pwd=$(pwd)
 rm -rf /tmp/free*
 rm -rf /var/www/html/free*
-apt-get --download-only install freesweep
+
+
+apt-get --download-only install freesweep:i386
 mkdir /tmp/freesweep
 mv /var/cache/apt/archives/freesweep_*.deb /tmp/freesweep
 cd /tmp/freesweep/
